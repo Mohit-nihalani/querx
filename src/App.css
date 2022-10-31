@@ -13,3 +13,25 @@
   background: url('https://quer.vercel.app/static/media/herobg.f559c828291ec9dd5b45.png');
   background-repeat: no-repeat;
 }
+
+.heroSection{
+  background-color: #F2F7FF;
+}
+.FeatureSection , .faqSection{
+  padding-top: 5%;
+  background-image: linear-gradient(#F2F7FF 60%, white 50%);
+}
+
+.howItWorksContainer{
+  padding:5% auto;
+  background: #F2F7FF ;
+}
+
+.counterSection{
+  background-color: #EBF2FF;;
+}
+
+.counterTitle{
+  color: #1C5BD9;
+;
+}

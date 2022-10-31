@@ -2,8 +2,8 @@ import React from "react";
 
 const HowItWorks = () => {
   return (
-    <div className="container-fluid">
-      <div className="container">
+    <div className="container-fluid howItWorksContainer">
+      <div className="container py-5">
         <div className="row">
           <div className="col-12">
             <h1>How It Works</h1>

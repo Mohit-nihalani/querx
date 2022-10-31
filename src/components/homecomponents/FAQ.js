@@ -40,7 +40,8 @@ const Features = () => {
   };
 
   return (
-    <div className="container border border-dark">
+    <div className="container-fluid faqSection">
+    <div className="container">
       <div className="row">
         <div className="col">
           <h1>Sexual Issues we Treat</h1>
@@ -126,6 +127,7 @@ const Features = () => {
           Couples
         </Tab>
       </Tabs>
+    </div>
     </div>
   );
 };

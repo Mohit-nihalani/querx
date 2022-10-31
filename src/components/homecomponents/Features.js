@@ -39,6 +39,7 @@ const Features = () => {
   };
 
   return (
+    <div className="container-fluid FeatureSection">
     <div className="container">
       <div className="row">
         <div className="col"><h1>Sexual Issues we Treat</h1></div>
@@ -110,6 +111,7 @@ const Features = () => {
           Couples
         </Tab>
       </Tabs>
+    </div>
     </div>
   );
 };

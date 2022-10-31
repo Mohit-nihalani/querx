@@ -2,6 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   return (<>
+  <div className='heroSection'>
     <div className="container-fluid  heroContainer">
     <div className='row d-flex justify-content-end'>
     <div className="col-12 d-md-none text-center my-3">
@@ -19,11 +20,12 @@ const Hero = () => {
         </div>
     </div>
     </div>
-    <div className='container heroSectionFeature mb-5'>
+    <div className='container heroSectionFeature'>
     <div className='row py-lg-2 text-white text-center'>
-        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-center'><span><img src="https://quer.vercel.app/static/media/locksv.34d86ab8d59e3c542fcc34d973c126ea.svg"/></span><p className='my-auto text-start'>Personalized treatment plans</p></div></div>
-        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-center'><span><img src="https://quer.vercel.app/static/media/varifsv.910e097c8050df4fa9e21483f521c3d2.svg"/></span><p className='my-auto text-start'>Backed by best sexologists from India & USA</p></div></div>
-        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-center'><span><img src="https://quer.vercel.app/static/media/silensv.f139879e5af69699dc92f99e098f532c.svg"/></span><p className='my-auto text-start'>100% confidential</p></div></div>      
+        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-lg-center'><span><img src="https://quer.vercel.app/static/media/locksv.34d86ab8d59e3c542fcc34d973c126ea.svg"/></span><p className='my-auto text-start'>Personalized treatment plans</p></div></div>
+        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-lg-center'><span><img src="https://quer.vercel.app/static/media/varifsv.910e097c8050df4fa9e21483f521c3d2.svg"/></span><p className='my-auto text-start'>Backed by best sexologists from India & USA</p></div></div>
+        <div className='col-12 col-md-4 my-2 my-lg-3'><div className='d-flex align-items-center justify-content-lg-center'><span><img src="https://quer.vercel.app/static/media/silensv.f139879e5af69699dc92f99e098f532c.svg"/></span><p className='my-auto text-start'>100% confidential</p></div></div>      
+    </div>
     </div>
     </div>
     </>
