@@ -8,3 +8,8 @@
 .footerContainer{
   background-color: #D2E1FE;
 }
+
+.heroImageContainer{
+  background: url('https://quer.vercel.app/static/media/herobg.f559c828291ec9dd5b45.png');
+  background-repeat: no-repeat;
+}
