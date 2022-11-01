@@ -13,7 +13,7 @@ const HowItWorks = () => {
           </div>
         </div>
         <div className="row justify-content-center">
-          <div className="col-12 col-md-4 col-lg-3">
+          <div className="col-12 col-md-4 col-lg-4">
             <div className="card my-3">
               <img
                 className="card-img-top mx-3 mt-3"
@@ -31,7 +31,7 @@ const HowItWorks = () => {
             </div>
           </div>
           
-          <div className="col-12 col-md-4 col-lg-3 ">
+          <div className="col-12 col-md-4 col-lg-4 ">
             <div className="card my-3">
               <img
                 className="card-img-top mx-3 mt-3"
@@ -49,7 +49,7 @@ const HowItWorks = () => {
             </div>
           </div>
 
-          <div className="col-12 col-md-4 col-lg-3 ">
+          <div className="col-12 col-md-4 col-lg-4 ">
             <div className="card my-3">
               <img
                 className="card-img-top mx-3 mt-3"
